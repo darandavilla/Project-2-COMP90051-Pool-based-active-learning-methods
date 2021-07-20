@@ -1,4 +1,4 @@
-# Project-2-SML-Pool-based-active-learning-methods
+# SML_COMP90051_S1_2021_Assignment2
 Statistical Machine Learning UoM - Assignment 2 - S1 2021
 
 Project 2: Implementing Active Learning methods
